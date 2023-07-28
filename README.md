@@ -1,5 +1,5 @@
-# Calculator_for_risk_assessment
-An automatic and improved calculator for ergonomic risk assessment contains six critical segments, including (1)Trunk, (2)Neck, (3)Legs, (4)Upper_arms, (5)Lower_arms, and (6)Wrists.
+# Calculator_for_ergonomic_assessment
+The automatic and improved calculator for ergonomic risk assessment contains six main segments, including (1)Trunk, (2)Neck, (3)Legs, (4)Upper_arms, (5)Lower_arms, and (6)Wrists.
 
 Under the abovementioned segments, this ergonomic calculator considers the 17 submodules listed below: Trunk_flexion_angle, Trunk_bending_angle, Trunk_twisting_angle, Neck_flexion_angle, Neck_bending_angle, Relative_height_difference_between_feet, Left_leg_flexion_angle, Right_leg_flexion_angle, Left_upper_arm_flexion_angle, Right_upper_arm_flexion_angle, Left_upper_arm_abduction_angle, Right_upper_arm_abduction_angle, Raising_gap_between_shoulders, Left_lower_arm_flexion_angle, Right_lower_arm_flexion_angle, Left_wrist_flexion_angle, Right_wrist_flexion_angle.
 
