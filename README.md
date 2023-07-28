@@ -6,6 +6,7 @@ Furthermore, the branches of the ergonomic calculator including the 17 parts lis
 In addition, this calculator is developed for ergonomic assessment under the REBA (Rapid Entire Body Assessment) framework by Sue Hignett in 2000 (DOI:10.1016/S0003-6870(99)00039-3). In specific, the calculation process is based on the 20-nodes joints system of skeleton data in CML (Construction Motion Data Library), which is a public and integrated motion dataset for on-site activity. This image from: https://doi.org/10.1038/s41597-022-01841-1 demonstrates the skeletal body joints model and corresponding simplified 15/20 joints system.
 
 ![image](https://github.com/LIZR58/Calculator_for_ergonomic_assessment/assets/133872933/fe2dbcf6-f783-4d7c-8de4-062d5fb026e3)
+
 Fig.3  from Tian, Y., Li, H., Cui, H., & Chen, J. (2022)
 
 The CML dataset contains skeleton data highly related to construction industries among the four fundamental categories of activities: Production Activities(12 types), Unsafe Activities(38 types), Awkward Activities(10 types), and Common Activities(13 types). The CML database can be download from the website below: https://figshare.com/articles/dataset/Construction_Motion_Data_Library_An_Integrated_Motion_Dataset_for_On-Site_Activity_Recognition/20480787/3. You can find out the folder "20_nodes" from the first zip "Construction_Related_Data" for use.
